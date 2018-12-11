@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/menu_equalizer"
+            android:icon="@drawable/ic_build_black"
+            android:title="Equalizer config"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/menu_player"
+            android:icon="@drawable/ic_video"
+            android:title="Youtube player"
+            app:showAsAction="always"/>
+
+</menu>
